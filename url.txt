@@ -1,1 +1,1 @@
-github.com
+api.github.com
